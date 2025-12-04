@@ -76,7 +76,6 @@ Indian Institute of Science (IISc), Bangalore
 -----
 
 **Copyright © 2025 Akhil. All Rights Reserved.**
-*This software is protected by copyright law.*
 
 ```
 ```
