@@ -47,7 +47,7 @@ The tool supports standard images, **DICOM** series, and **NIfTI** volumes, maki
 3.  **Refine**: Use the **Brush** tool to add specific pixels or the **Eraser** tools (Superpixel/Pixel) to correct mistakes.
 4.  **Export**: Go to `File → Export` (Ctrl+S) to save your masks as images, NIfTI volumes, or DICOM series.
 
-**[Download User Manual](https://drive.google.com/file/d/1Oqi0TCoILgV-mzj19y0dEesy5G-TiLuH/view?usp=share_link)**
+**[Download User Manual]([https://drive.google.com/file/d/1Oqi0TCoILgV-mzj19y0dEesy5G-TiLuH/view?usp=share_link](https://drive.google.com/uc?export=download&id=1Oqi0TCoILgV-mzj19y0dEesy5G-TiLuH))**
 
 ---
 
