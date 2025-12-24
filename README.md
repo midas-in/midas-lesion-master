@@ -21,10 +21,8 @@ The tool supports standard images, **DICOM** series, and **NIfTI** volumes, maki
 ### Windows Installation
 
 1.  **Download the Software**:
-    Download the latest **Lesion Master** executable using the link below:
-    **[Download Lesion Master](https://github.com/Akhil717/Lesion-Master/actions/runs/19888382984/artifacts/4748552332)**
-
-2.  **Extract/Run**:
+    Download the latest **Lesion Master** executable (.exe) using the link below:
+    **[Download Lesion Master](https://github.com/Akhil717/Lesion-Master/actions/runs/19888382984/artifacts/4748552332)** 2.  **Extract/Run**:
       * If the download is a `.zip` file, extract the contents to a folder.
       * Double-click `LesionMaster_Setup.exe` (or the application executable) to launch.
 
@@ -49,6 +47,8 @@ The tool supports standard images, **DICOM** series, and **NIfTI** volumes, maki
 3.  **Refine**: Use the **Brush** tool to add specific pixels or the **Eraser** tools (Superpixel/Pixel) to correct mistakes.
 4.  **Export**: Go to `File → Export` (Ctrl+S) to save your masks as images, NIfTI volumes, or DICOM series.
 
+**[Download User Manual](https://drive.google.com/file/d/1Oqi0TCoILgV-mzj19y0dEesy5G-TiLuH/view?usp=share_link)**
+
 ---
 
 ## Citation
@@ -63,19 +63,3 @@ If you use **Lesion Master** in your research, please cite it as follows:
   version = {1.9.0},
   note = {IISc Bangalore}
 }
-````
-
------
-
-## Developer
-
-**Akhil** M.Tech Research Scholar  
-Indian Institute of Science (IISc), Bangalore  
-*Research Area: Medical Image Processing & Computer Vision*
-
------
-
-**Copyright © 2025 Akhil. All Rights Reserved.**
-
-```
-```
