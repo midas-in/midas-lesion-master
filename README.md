@@ -63,3 +63,11 @@ If you use **Lesion Master** in your research, please cite it as follows:
   version = {1.9.0},
   note = {IISc Bangalore}
 }
+```
+## License
+
+[GNU GENERAL PUBLIC LICENSE](https://github.com/midas-in/midas-lesion-master/blob/main/LICENSE)
+
+**Lesion Master** is a professional-grade desktop application designed for medical image analysis and annotation. Developed for researchers, clinicians, and imaging professionals, it combines intelligent superpixel segmentation with an intuitive interface to accelerate Region of Interest (ROI) marking workflows.
+
+    Copyright (C) 2025 IISc/Artpark
