@@ -70,4 +70,4 @@ If you use **Lesion Master** in your research, please cite it as follows:
 
 **Lesion Master** is a professional-grade desktop application designed for medical image analysis and annotation. Developed for researchers, clinicians, and imaging professionals, it combines intelligent superpixel segmentation with an intuitive interface to accelerate Region of Interest (ROI) marking workflows.
 
-    Copyright (C) 2025 IISc/Artpark
+    Copyright (C) 2025 AKHIL
